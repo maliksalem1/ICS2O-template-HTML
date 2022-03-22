@@ -1,16 +1,17 @@
+/* Created by: maliksalem1
+* Created on: March 2022
+* This file contains the CSS for index.html
+*/
 
-
-body {
-  background-color: red;
-}
-
-h1 {
-  background-color: rgb(250, 252, 255);
-  color: hsl(221deg 50% 47%);
-  padding: 40px;
-  text-align: center;
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
 }
 
 p {
-  background-color: #000000;
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
 }
