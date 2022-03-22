@@ -1,0 +1,16 @@
+
+
+body {
+  background-color: red;
+
+
+h1 {
+  background-color: rgb(250, 252, 255);
+  color: hsl(221deg 50% 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #000000;
+}
